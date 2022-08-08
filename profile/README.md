@@ -10,4 +10,4 @@ Google Doc: https://docs.google.com/document/d/1Nj9pyVjbfvpaYTRGy8sRsgDBixyDn37w
 To read more on NFT2.0: https://medium.com/@avirajkhare00/nft-2-0-the-interactive-nfts-e4e4df621922
 
 ## TODO
-Change GitHub org name to eutopian.world
+ - [x]Change GitHub org name to eutopian.world
